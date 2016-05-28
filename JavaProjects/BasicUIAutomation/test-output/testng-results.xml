@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="170" started-at="2016-05-18T06:09:37Z" finished-at="2016-05-18T06:09:37Z">
+    <groups>
+      <group name="linux">
+        <method signature="TestNGTest_2.linuxTestC()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="linuxTestC" class="org.uiautomation.TestNGSamples.TestNGTest_2"/>
+        <method signature="TestNGTest_2.linuxTestD()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="linuxTestD" class="org.uiautomation.TestNGSamples.TestNGTest_2"/>
+      </group> <!-- linux -->
+      <group name="windows">
+        <method signature="TestNGTest_2.windowsTestA()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="windowsTestA" class="org.uiautomation.TestNGSamples.TestNGTest_2"/>
+        <method signature="TestNGTest_2.windowsTestB()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="windowsTestB" class="org.uiautomation.TestNGSamples.TestNGTest_2"/>
+      </group> <!-- windows -->
+    </groups>
+    <test name="Default test" duration-ms="170" started-at="2016-05-18T06:09:37Z" finished-at="2016-05-18T06:09:37Z">
+      <class name="org.uiautomation.TestNGSamples.TestNGTest_2">
+        <test-method status="PASS" signature="linuxTestC()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="linuxTestC" duration-ms="65" started-at="2016-05-17T23:09:37Z" finished-at="2016-05-17T23:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linuxTestC -->
+        <test-method status="PASS" signature="linuxTestD()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="linuxTestD" duration-ms="4" started-at="2016-05-17T23:09:37Z" finished-at="2016-05-17T23:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linuxTestD -->
+        <test-method status="PASS" signature="windowsTestA()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="windowsTestA" duration-ms="2" started-at="2016-05-17T23:09:37Z" finished-at="2016-05-17T23:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowsTestA -->
+        <test-method status="PASS" signature="windowsTestB()[pri:0, instance:org.uiautomation.TestNGSamples.TestNGTest_2@100fc185]" name="windowsTestB" duration-ms="3" started-at="2016-05-17T23:09:37Z" finished-at="2016-05-17T23:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowsTestB -->
+      </class> <!-- org.uiautomation.TestNGSamples.TestNGTest_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
